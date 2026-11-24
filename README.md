@@ -1,1 +1,0 @@
-# rivals-online.zip
