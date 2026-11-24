@@ -1,0 +1,9 @@
+{
+  "name": "rivals-arena",
+  "version": "1.0.0",
+  "description": "Rivals-style multiplayer FPS with lobbies, room codes and arena voting",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
